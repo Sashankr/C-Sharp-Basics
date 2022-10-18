@@ -20,3 +20,7 @@ Console.WriteLine(12);
 Console.WriteLine(12.25m);
 Console.WriteLine(true);
 
+char userOption;
+int gameScore;
+decimal particlesPerMillion;
+bool processedCustomer;
