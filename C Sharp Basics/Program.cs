@@ -1,8 +1,8 @@
-﻿string name = "Hello World";
+﻿/*
+ Challenge 1 : Produce following output
+This is the first line.
+This is the second line.
+ */
 
-Console.WriteLine($"{name.Replace("World","Universe")}");
-Console.WriteLine($"{name.ToUpper()}");
-Console.Write("Inline Text");
-Console.Write("Inline Text");
-
-var result = name.Contains("World");
+Console.WriteLine("This is the first line.");
+Console.Write("This is the second line.");
